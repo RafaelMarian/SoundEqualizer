@@ -2,6 +2,7 @@ Sound Equalizer Project
 1. Project Objective
 
 The objective of this project is to develop a sound equalizer to run on FPGA, utilizing tools provided by Xilinx. The implementation will be carried out using VHDL and C Embedded languages.
+
 2. Resources
 
     Zybo Development Board
@@ -41,6 +42,7 @@ The objective of this project is to develop a sound equalizer to run on FPGA, ut
 6. Conclusions
 
 The successful development of a sound equalizer using Vivado Block Design and Xilinx SDK, with integration on the Zybo development board and VGA monitor. Implementation of the EMA filter along with the Low Pass Filter.
+
 7. Future Developments
 
     Expansion of video from 8 bars to 20+
